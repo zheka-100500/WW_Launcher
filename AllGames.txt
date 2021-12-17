@@ -1,1 +1,2 @@
 DD:Death's Door:DDModules;
+HK:Hollow Knight:HKModules;
