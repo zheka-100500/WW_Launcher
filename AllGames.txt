@@ -1,3 +1,3 @@
 DD:Death's Door:DDModules
 HK:Hollow Knight:HKModules
-ORIDE:Ori DE:ORIDEModules
+ORIDE:Ori and the Blind Forest:ORIDEModules
