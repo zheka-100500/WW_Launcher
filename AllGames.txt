@@ -1,5 +1,4 @@
 DD:Death's Door:DDModules
 HK:Hollow Knight:HKModules
 AER:AER Memories of Old:AERModules
-ORIDE:Ori and the Blind Forest:ORIDEModules
 INSIDE:INSIDE:INSIDEModules
