@@ -5,4 +5,3 @@ ORIWOTW:Ori and the Will of the Wisps:ORIWOTWModules:1
 FARLS:FAR Lone Sails:FARLSModules:1
 FARCT:FAR Changing Tides:FARCTModules:1
 CITIES:Cities Skylines:CITIESModules:0
-BCP:Bridge Constructor Portal:BCPModules:0
