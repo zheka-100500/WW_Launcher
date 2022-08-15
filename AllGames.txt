@@ -3,3 +3,4 @@ HK:Hollow Knight:HKModules:0
 ORIDE:Ori and the Blind Forest:ORIDEModules:0
 ORIWOTW:Ori and the Will of the Wisps:ORIWOTWModules:1
 FARLS:FAR Lone Sails:FARLSModules:1
+COTL:Cult of the Lamb:COTLModules:0
