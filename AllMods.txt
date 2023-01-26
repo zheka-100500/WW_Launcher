@@ -1,0 +1,6 @@
+DD:Death's Door:0
+HK:Hollow Knight:0
+ORIDE:Ori and the Blind Forest:0
+COTL:Cult of the Lamb:0
+ORIWOTW:Ori and the Will of the Wisps:1
+FARLS:FAR Lone Sails:1
