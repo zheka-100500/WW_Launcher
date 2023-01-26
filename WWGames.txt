@@ -1,2 +1,2 @@
-mg:Music Game
-sitb:Survival in the bunker
+MG:Music Game
+SITB:Survival in the bunker
