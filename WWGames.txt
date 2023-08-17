@@ -1,2 +1,3 @@
 MG:Music Game
 CUBICS:Cubics
+SCPSL:SCP SL
